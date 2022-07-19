@@ -7,6 +7,7 @@
   </a>
   <a href="mailto:reyes.dennisjoseph@gmail.com" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=reyesdf&style=for-the-badge&color=green" alt=""/>
+  </a>
 </div>
 
 <h1>
