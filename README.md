@@ -5,9 +5,7 @@
   <a href="https://www.linkedin.com/in/dennis-joseph-reyes-436a73180" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:reyes.dennisjoseph@gmail.com" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=reyesdf&style=for-the-badge&color=green" alt=""/>
-  </a>
 </div>
 
 <h1>
@@ -27,7 +25,7 @@
 
 - :mailbox:How to reach me: 
   - [![Linkedin Badge](https://img.shields.io/badge/-dj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-joseph-reyes-436a73180)
-  - [![Gmail Badge](https://img.shields.io/badge/-dj-white?style=flat&logo=Gmail&logoColor=red)](reyes.dennisjoseph@gmail.com)
+  - [![Gmail Badge](https://img.shields.io/badge/-dj-white?style=flat&logo=Gmail&logoColor=red)](mailto:reyes.dennisjoseph@gmail.com)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
