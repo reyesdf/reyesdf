@@ -18,7 +18,7 @@
 ### :man_technologist: About Me:
 - :gear: I’m working as am Information Security Compliance analyst.
 
-- :books: Focusing on Front End Development for side projects while studying and making information security a career.
+- :books: Focusing on Information Security and Compliance, studying automation and data storytelling.
 
 - :zap: In my free time, I watch tv series / spend quality time with my family.
 
